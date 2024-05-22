@@ -1,7 +1,7 @@
-Introduction
+Introduction:
 color_click.py is a Python script designed to detect the presence of a specific color within a user-defined screen area. When the specified color is continuously present in the area for a certain duration, the program executes a random click operation within that area. This script can be utilized in various scenarios, such as automation testing, gaming assistance, and more.
 
-Installation Guide
+Installation Guide:
 To use this script, you need to install the following Python libraries:
 
 'pyautogui'
@@ -9,7 +9,7 @@ To use this script, you need to install the following Python libraries:
 'keyboard'
 'tkinter' (usually installed with Python)
 
-Usage
+USAGE:
 Start the Script: CMD:python color_click.py.
 Select Area: Press alt+n to activate the area selection mode, then drag the mouse to select an area on the screen.
 Confirm Selection: After selecting the area, press enter to confirm.
