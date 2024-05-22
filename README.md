@@ -12,7 +12,7 @@ To use this script, you need to install the following Python libraries:
 1. **Start the Script**: 
    ```sh
    python color_click.py
-2. Select Area: Press alt+n to activate the area selection mode, then drag the mouse to select an area on the screen.
+2. Select Area: Press `alt+n` to activate the area selection mode, then drag the mouse to select an area on the screen.
 3. Confirm Selection: After selecting the area, press enter to confirm.
 4. Detection and Clicking: The program will monitor the selected area and detect the specified color. If the color is continuously present for more than the preset time, the program will randomly click within the area.
-5. Exit the Program: You can exit the program at any time by pressing the esc key.
+5. Exit the Program: You can exit the program at any time by pressing the `esc` key.
